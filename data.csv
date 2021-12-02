@@ -1,0 +1,7 @@
+﻿Print Date,Amount Paid,ORDER #,SELLER,Recipient,Phone,Status,Tracking #,Class Service,Weight
+10/1/2021,"$12,38",12345,,Customer A,7140000000,pending Status, 9205500000000000000000,Priority Mail (R),2lb 6oz
+10/1/2021,"$3,88",123456,,Customer B,7140000000,Printed, 9205500000000000000001,First Class (R),0lb 7oz
+10/1/2021,"$8,75",234567,,Customer C,7140000000,Printed, 9205500000000000000002,Priority Mail (R),1lb 2oz
+10/1/2021,"$8,75",345678,,Customer D,7140000000,pending Status, 9205500000000000000003,Priority Mail (R),1lb 6oz
+10/1/2021,"$8,59",456789,,Customer E,7140000000,Printed, 9205500000000000000004,Priority Mail (R),5lb 7oz
+10/1/2021,"$3,81",567900,,Customer F,7140000000,Printed, 9205500000000000000005,First Class (R),0lb 6oz
