@@ -49,7 +49,7 @@ for i in range(len(pn_list_to_be_sent)):
     try:
         message = client.messages \
                     .create(
-                        body="From CLLAM SUPPLY,\n Dear " + customers_list_to_be_sent[i] + "\n" +
+                        body="From <COMPANY NAME>,\n Dear " + customers_list_to_be_sent[i] + "\n" +
                         "Great news! Your order is shipped and can be track with USPS, Track at " +
                         "https://tools.usps.com/go/TrackConfirmAction?tRef=fullpage&tLc=2&text28777=&tLabels=" + str(tracking_code_to_be_sent[i]),
                         from_= from_phone,
